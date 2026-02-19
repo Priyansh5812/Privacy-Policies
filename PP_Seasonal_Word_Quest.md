@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: February 8, 2026**
+**Last Updated: February 20, 2026**
 
 This Privacy Policy describes how **Priyansh Kashyap** ("we," "us," or "our") collects, uses, and shares information in our mobile games. Our games are designed for a general audience, including users ages 7 and older.
 
