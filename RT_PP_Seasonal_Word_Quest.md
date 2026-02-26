@@ -29,8 +29,6 @@ We may collect anonymized persistent identifiers (such as the Google Advertising
 • We do <b>not</b> require registration or personal identifiers (such as names or phone numbers) to play.  
 • If you contact our support team, we use your email address solely to respond to and resolve your request.
 
-<br>
-
 <size=125%><b>2. Third-Party Services</b></size>
 
 We use industry-standard third-party services to support game functionality and stability:
@@ -72,8 +70,6 @@ Stored data is <b>not</b> used for advertising, tracking, or profiling.
 • Data is used strictly for diagnostics.  
 • Not used for analytics, advertising, or profiling.
 
-<br>
-
 <size=125%><b>3. Children’s Privacy</b></size>
 
 Our games are rated for ages 7 and above.
@@ -84,8 +80,6 @@ Because we do not implement age verification, we apply a high privacy standard t
 • We use only SDKs compliant with the Google Play Families Policy.  
 • All advertisements are contextual and age-appropriate.
 
-<br>
-
 <size=125%><b>4. How We Use Your Information</b></size>
 
 We process information to:
@@ -95,15 +89,11 @@ We process information to:
 • Serve contextual, non-personalized ads  
 • Protect against fraud or illegal activity  
 
-<br>
-
 <size=125%><b>5. Data Retention & Security</b></size>
 
 We retain information only as long as necessary to fulfill the purposes described in this policy.
 
 We implement reasonable administrative and technical safeguards to protect data. However, no method of electronic storage is completely secure.
-
-<br>
 
 <size=125%><b>6. Your Rights</b></size>
 
@@ -127,14 +117,10 @@ You may request deletion of your data by:
 • Contacting us directly at:  
 <b>priyanshkrkashyap@gmail.com</b>
 
-<br>
-
 <size=125%><b>7. Changes to This Policy</b></size>
 
 We may update this Privacy Policy periodically.  
 Changes will be posted on this page with an updated "Last Updated" date.
-
-<br>
 
 <size=125%><b>8. Contact Us</b></size>
 
